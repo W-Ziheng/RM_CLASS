@@ -25,7 +25,7 @@ This training program is divided into several key parts, as follows:
   - Install ROS and write your first ROS2 node.
   - Learn about ROS topics, communication mechanisms, messages, and related concepts.
 
-### CLASS 3: Introduction to Computer Vision and Basic Object Detection
+## CLASS 3: Introduction to Computer Vision and Basic Object Detection
 
 - **Installing OpenCV and Setting Up the Environment**
   - Set up OpenCV on your system to begin exploring computer vision techniques.
@@ -39,7 +39,7 @@ This training program is divided into several key parts, as follows:
   - Develop a simple object recognition system using OpenCV, leveraging techniques such as contour detection and template matching.
   - Learn to identify basic shapes and objects based on color and geometric features.
 
-### CLASS 4: Armor Plate Recognition and SLAM Navigation Simulation
+## CLASS 4: Armor Plate Recognition and SLAM Navigation Simulation
 
 - **Armor Plate Detection with Computer Vision**
   - Using a webcam, implement a system to detect armor plates in real-time by processing video frames.
@@ -50,7 +50,7 @@ This training program is divided into several key parts, as follows:
   - Learn how to implement a simple SLAM (Simultaneous Localization and Mapping) system to create maps of the environment while navigating.
   - Use ROS to control a specified robot chassis and simulate its navigation while scanning for obstacles and mapping the surroundings.
 
-### CLASS 5: YOLOv5 Deployment and Object Detection
+## CLASS 5: YOLOv5 Deployment and Object Detection
 
 - **Deploying YOLOv5 for Object Detection**
   - Learn how to deploy the YOLOv5 deep learning model for object detection.
