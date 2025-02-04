@@ -65,9 +65,7 @@ This training program is divided into several key parts, as follows:
 
 ---
 
-If you have any suggestions or questions, please feel free to open an **issue** to initiate a discussion and give me a STAR.
-
-We will highly appreciate your feedback and collaboration.
+If you have any suggestions or questions, please feel free to open an **issue** to initiate a discussion and give me a **STAR** in the top right corner.We will highly appreciate your feedback and collaboration.
 
 ---
 
