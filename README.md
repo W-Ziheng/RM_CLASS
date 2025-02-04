@@ -1,134 +1,71 @@
-# RM_CLASS 作业提交与问题反馈指南
+# RM_CLASS
+Welcome to the RM_CLASS repository!
 
-欢迎来到福州大学浮舟湿地战队 2025 赛季算法组培训基地！在这个培训过程中，我们将使用 GitHub 来提交作业、跟踪问题并进行讨论。本指南将帮助你了解如何使用 GitHub 的 **Pull Request** 和 **Issue** 功能来提交作业、提问或反馈问题。
+The official training hub for the Algorithm Team of the Fuzhou University `浮舟湿地` for the 2025 season. The `main` branch contains markdown documents and reference solutions for each training session, making it easy to access learning materials and review exercises.
 
-## 目录
-1. [提交作业步骤](#提交作业步骤)
-2. [提出问题（Issue）](#提出问题-issue)
-3. [如何查看和评论 Issue](#如何查看和评论-issue)
-4. [作业评审与修改](#作业评审与修改)
-5. [注意事项](#注意事项)
+This training program is divided into several key parts, as follows:
 
----
+> The Environment based on Ubuntu22.04 ROS2-Humle
 
-## 提交作业步骤
+## CLASS_1: Introduction to Linux and ROS2, Basic Programming
 
-### 1. 克隆仓库到本地
-首先，确保你已经将该仓库克隆到本地。打开 Git Bash 或其他终端，执行以下命令：
+- **Initial Setup: Linux and ROS2 Installation**
+  - Set up a Linux environment and install ROS2 along with the pre-installed packages for hands-on experience.
+  
+- **Introduction to Programming Languages**
+  - Learn the basics of C++ and Python, essential programming languages for robotics development.
+  - Understand Markdown for creating well-structured documentation.
 
-```bash
-git clone https://github.com/W-Ziheng/RM_CLASS.git
-```
+## CLASS_2: Getting Started with Linux, ROS, and Computer Vision
 
-### 2. 创建并切换到自己的分支
-为了方便管理你的作业，每个成员都需要在自己的分支上进行修改。你可以使用以下命令创建一个新分支并切换过去：
+- **Linux Fundamentals**
+  - Familiarize yourself with Linux commands and the operating system environment.
 
-```bash
-git checkout -b "your-branch-name"
-```
+- **Introduction to ROS (Robot Operating System)**
+  - Install ROS and write your first ROS2 node.
+  - Learn about ROS topics, communication mechanisms, messages, and related concepts.
 
-**注意**：请将 `your-branch-name` 替换为你的分支名称，建议使用包含你名字的分支名，比如 `wang-zi-heng-class1`。
+## CLASS 3: Introduction to Computer Vision and Basic Object Detection
 
-### 3. 提交作业文件
-在本地分支中进行作业的编写或修改，完成后使用以下命令提交：
+- **Installing OpenCV and Setting Up the Environment**
+  - Set up OpenCV on your system to begin exploring computer vision techniques.
+  - Learn to implement essential functions like reading images, video capture, and basic image manipulation using OpenCV.
 
-```bash
-git add .
-git commit -m "XXX提交CLASS_1作业"
-```
+- **Basic Color Detection**
+  - Implement a real-time color detection system using a webcam.
+  - Understand how to process images in different color spaces (e.g., HSV) and apply thresholds to detect specific colors.
+  
+- **Object Recognition**
+  - Develop a simple object recognition system using OpenCV, leveraging techniques such as contour detection and template matching.
+  - Learn to identify basic shapes and objects based on color and geometric features.
 
-### 4. 推送分支到 GitHub
-将本地的修改推送到远程仓库：
+## CLASS 4: Armor Plate Recognition and SLAM Navigation Simulation
 
-```bash
-git push origin "your-branch-name"
-```
+- **Armor Plate Detection with Computer Vision**
+  - Using a webcam, implement a system to detect armor plates in real-time by processing video frames.
+  - Explore techniques such as edge detection, contour finding, and template matching to identify armor plates in dynamic environments.
 
-### 5. 提交 Pull Request
-1. 登录到 GitHub，进入该仓库页面。
-2. 你会看到一个提示，询问是否创建一个新的 Pull Request。
-3. 点击 **Compare & Pull Request**。
-4. 填写合适的标题和描述，确保描述清晰明了（例如：“XXX提交CLASS_1作业”）。
-5. 点击 **Create Pull Request** 提交你的修改。
+- **SLAM Navigation Simulation with ROS**
+  - Integrate ROS with OpenCV to simulate robotic navigation using a camera feed.
+  - Learn how to implement a simple SLAM (Simultaneous Localization and Mapping) system to create maps of the environment while navigating.
+  - Use ROS to control a specified robot chassis and simulate its navigation while scanning for obstacles and mapping the surroundings.
 
-### 6. 等待评审
-提交后，组内其他成员或负责人会对你的作业进行评审。如果需要修改，他们会在 Pull Request 下给出反馈。
+## CLASS 5: YOLOv5 Deployment and Object Detection
 
----
+- **Deploying YOLOv5 for Object Detection**
+  - Learn how to deploy the YOLOv5 deep learning model for object detection.
+  - Install necessary dependencies and set up the YOLOv5 environment for real-time object identification in video streams.
 
-## 提出问题 (Issue)
+- **Training and Fine-tuning YOLOv5**
+  - Explore how to fine-tune the YOLOv5 model using custom datasets to detect specific objects relevant to your project (e.g., armor plates, other objects of interest).
+  - Learn how to evaluate the model’s performance and improve accuracy by adjusting hyperparameters or augmenting training data.
 
-### 1. 创建 Issue
-如果在作业中遇到问题，或者对某些内容有疑问，你可以通过 GitHub 的 **Issue** 功能来提出问题。
-
-1. 进入仓库页面，点击页面上方的 **Issues** 标签。
-2. 点击 **New Issue** 按钮。
-3. 填写问题的标题和详细描述，描述你遇到的问题或不理解的地方，尽可能提供足够的信息。
-4. 点击 **Submit new issue** 提交问题。
-
-### 2. 标记问题类型
-在提问时，你可以通过给 Issue 加上标签（Labels）来标记问题类型，比如：
-- **bug**：程序错误或问题
-- **question**：一般问题或疑问
-- **enhancement**：对功能的改进建议
-- **help wanted**：需要其他成员协助的问题
-
-### 3. 回复和解决问题
-如果其他成员已经回答了你的问题，你可以在 Issue 中进行回复，或者关闭该问题。
+- **Real-time Object Detection with YOLOv5**
+  - Implement real-time object detection with YOLOv5, capturing frames from a camera and running the detection model on each frame to identify and classify objects.
 
 ---
 
-## 如何查看和评论 Issue
-
-### 1. 查看问题
-你可以通过 **Issues** 页面查看所有的提问和反馈。每个问题都有详细的描述、评论和状态（是否已解决）。
-
-### 2. 评论问题
-如果你看到一个问题并且有解决方案或建议，可以在该问题下进行评论：
-
-1. 打开某个 Issue 页面。
-2. 在下方的评论框中输入你的回答或建议。
-3. 点击 **Comment** 提交评论。
-
-### 3. 关闭问题
-当问题得到解决后，可以关闭该 Issue。(只有仓库管理员或者创建问题的人可以关闭 Issue)
+If you have any suggestions or questions, please feel free to open an **issue** to initiate a discussion and give me a **STAR** in the top right corner.We will highly appreciate your feedback and collaboration.
 
 ---
 
-## 作业评审与修改
-
-在你提交 Pull Request 后，负责人会进行代码评审，可能会提出以下两种反馈：
-
-- **请求修改**：提出需要你修改的地方，按照反馈进行修改并重新提交。
-- **审核通过**：如果作业通过评审，Pull Request 将被合并到主分支。
-
-### 1. 修改作业
-如果评审者请求修改，你可以在你的本地分支上进行修改，然后再次提交（使用 `git commit` 和 `git push`），GitHub 会自动更新你的 Pull Request。
-
-### 2. 合并 Pull Request
-当 Pull Request 被审查通过后，组长或负责人会将你的修改合并到主分支（`main` 或 `Homework`）。
-
----
-
-## 注意事项
-
-1. **及时更新分支**：在你开始修改作业前，确保你的本地分支是最新的。可以使用以下命令来同步最新的主分支代码：
-
-   ```bash
-   git fetch origin
-   git rebase origin/Homework
-   ```
-
-2. **多次提交**：如果作业很复杂，可以分多次提交，每次提交都写明具体的改动内容。
-
-3. **保持分支清晰**：每个作业提交都应该在单独的分支上完成，禁止在一个分支上做多个作业。
-
-4. **提问要具体**：提出问题时，尽量具体描述你遇到的困惑或者错误信息，这样其他人才能更好地帮助你。
-
----
-
-如果你有任何疑问或建议，请随时通过 **Issue** 与大家讨论。我们会尽力提供帮助！
-
-祝你在培训过程中取得好成绩！📚🚀
-
---- 
