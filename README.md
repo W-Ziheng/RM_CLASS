@@ -1,8 +1,11 @@
 # RM_CLASS
 Welcome to the RM_CLASS repository!
-The official training hub for the Algorithm Team of the Fuzhou University `浮舟湿地` for the 2025 season. The `master` branch contains markdown documents and reference solutions for each training session, making it easy to access learning materials and review exercises.
+
+The official training hub for the Algorithm Team of the Fuzhou University `浮舟湿地` for the 2025 season. The `main` branch contains markdown documents and reference solutions for each training session, making it easy to access learning materials and review exercises.
 
 This training program is divided into several key parts, as follows:
+
+> The Environment based on Ubuntu22.04 ROS2-Humle
 
 ## CLASS_1: Introduction to Linux and ROS2, Basic Programming
 
@@ -34,7 +37,9 @@ This training program is divided into several key parts, as follows:
 
 ---
 
-If you have any suggestions or questions, please feel free to open an **issue** to initiate a discussion. We highly appreciate your feedback and collaboration.
+If you have any suggestions or questions, please feel free to open an **issue** to initiate a discussion and give me a STAR.
+
+We will highly appreciate your feedback and collaboration.
 
 ---
 
