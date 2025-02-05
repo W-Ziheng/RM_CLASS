@@ -17,8 +17,10 @@
 首先，确保你已经将该仓库克隆到本地。打开 Git Bash 或其他终端，执行以下命令：
 
 ```bash
-git clone https://github.com/W-Ziheng/RM_CLASS.git
+git clone -b Homework https://github.com/W-Ziheng/RM_CLASS.git
 ```
+
+> 最好 Fork 我的仓库到自己账户后再 git clone 
 
 ### 2. 创建并切换到自己的分支
 为了方便管理你的作业，每个成员都需要在自己的分支上进行修改。你可以使用以下命令创建一个新分支并切换过去：
@@ -44,12 +46,16 @@ git commit -m "XXX提交CLASS_1作业"
 git push origin "your-branch-name"
 ```
 
+可以直接用 VScode Push 会方便一点
+ 
 ### 5. 提交 Pull Request
 1. 登录到 GitHub，进入该仓库页面。
 2. 你会看到一个提示，询问是否创建一个新的 Pull Request。
 3. 点击 **Compare & Pull Request**。
 4. 填写合适的标题和描述，确保描述清晰明了（例如：“XXX提交CLASS_1作业”）。
 5. 点击 **Create Pull Request** 提交你的修改。
+
+> 如果是在自己Fork的仓库修改的,需要再Pull Request 到我的仓库内,才会生效
 
 ### 6. 等待评审
 提交后，组内其他成员或负责人会对你的作业进行评审。如果需要修改，他们会在 Pull Request 下给出反馈。
