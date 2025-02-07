@@ -1,0 +1,25 @@
+[0.496s] Invoking command in '/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py': PYTHONPATH=/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/Publisher2Listener_py build --build-base /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/build install --record /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/install.log --single-version-externally-managed install_data
+[0.657s] running egg_info
+[0.667s] writing build/Publisher2Listener_py/Publisher2Listener_py.egg-info/PKG-INFO
+[0.667s] writing dependency_links to build/Publisher2Listener_py/Publisher2Listener_py.egg-info/dependency_links.txt
+[0.667s] writing entry points to build/Publisher2Listener_py/Publisher2Listener_py.egg-info/entry_points.txt
+[0.667s] writing requirements to build/Publisher2Listener_py/Publisher2Listener_py.egg-info/requires.txt
+[0.668s] writing top-level names to build/Publisher2Listener_py/Publisher2Listener_py.egg-info/top_level.txt
+[0.687s] reading manifest file 'build/Publisher2Listener_py/Publisher2Listener_py.egg-info/SOURCES.txt'
+[0.688s] writing manifest file 'build/Publisher2Listener_py/Publisher2Listener_py.egg-info/SOURCES.txt'
+[0.688s] running build
+[0.688s] running build_py
+[0.688s] copying Publisher2Listener_py/__init__.py -> /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/build/lib/Publisher2Listener_py
+[0.688s] running install
+[0.691s] running install_lib
+[0.701s] running install_data
+[0.701s] copying resource/Publisher2Listener_py -> /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/share/ament_index/resource_index/packages
+[0.701s] copying package.xml -> /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/share/Publisher2Listener_py
+[0.701s] running install_egg_info
+[0.711s] removing '/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/python3.10/site-packages/Publisher2Listener_py-0.0.0-py3.10.egg-info' (and everything under it)
+[0.711s] Copying build/Publisher2Listener_py/Publisher2Listener_py.egg-info to /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/python3.10/site-packages/Publisher2Listener_py-0.0.0-py3.10.egg-info
+[0.712s] running install_scripts
+[0.798s] Installing listener script to /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/Publisher2Listener_py
+[0.799s] Installing publisher script to /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/Publisher2Listener_py
+[0.799s] writing list of installed files to '/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/install.log'
+[0.817s] Invoked command in '/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py' returned '0': PYTHONPATH=/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/Publisher2Listener_py build --build-base /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/build install --record /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/install.log --single-version-externally-managed install_data
