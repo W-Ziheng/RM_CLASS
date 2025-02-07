@@ -1,8 +1,8 @@
-# RM_CLASS Homework_2 使用指南
+# Wang-Zi-Heng Homework_2 指北
 
 ## 项目概述
 
-本项目是机器人学课程（RM_CLASS）的第二次作业，包含了两个任务：Task1和Task2。Task1是一个简单的C++程序，用于打印"Hello RM!"。Task2是一个ROS 2包，包含发布者和监听者节点，用于在ROS 2环境中进行消息发布和订阅。
+本项目是算法组培训的第二次作业，包含了两个任务：Task1和Task2。Task1是一个简单的C++程序，用于打印"Hello RM!"。Task2是一个ROS2包，包含发布者和监听者节点，用于在ROS2环境中进行消息发布和订阅。
 
 ## 目录结构
 
