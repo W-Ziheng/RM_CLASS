@@ -1,0 +1,32 @@
+[0.690s] Invoking command in '/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py': PYTHONPATH=/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/Publisher2Listener_py build --build-base /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/build install --record /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/install.log --single-version-externally-managed install_data
+[0.857s] running egg_info
+[0.857s] creating build/Publisher2Listener_py/Publisher2Listener_py.egg-info
+[0.868s] writing build/Publisher2Listener_py/Publisher2Listener_py.egg-info/PKG-INFO
+[0.870s] writing dependency_links to build/Publisher2Listener_py/Publisher2Listener_py.egg-info/dependency_links.txt
+[0.870s] writing requirements to build/Publisher2Listener_py/Publisher2Listener_py.egg-info/requires.txt
+[0.870s] writing top-level names to build/Publisher2Listener_py/Publisher2Listener_py.egg-info/top_level.txt
+[0.870s] writing manifest file 'build/Publisher2Listener_py/Publisher2Listener_py.egg-info/SOURCES.txt'
+[0.891s] reading manifest file 'build/Publisher2Listener_py/Publisher2Listener_py.egg-info/SOURCES.txt'
+[0.892s] writing manifest file 'build/Publisher2Listener_py/Publisher2Listener_py.egg-info/SOURCES.txt'
+[0.892s] running build
+[0.892s] running build_py
+[0.893s] creating /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/build
+[0.893s] creating /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/build/lib
+[0.893s] creating /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/build/lib/Publisher2Listener_py
+[0.893s] copying Publisher2Listener_py/__init__.py -> /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/build/lib/Publisher2Listener_py
+[0.893s] running install
+[0.895s] running install_lib
+[0.906s] creating /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/python3.10/site-packages/Publisher2Listener_py
+[0.906s] copying /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/build/lib/Publisher2Listener_py/__init__.py -> /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/python3.10/site-packages/Publisher2Listener_py
+[0.906s] byte-compiling /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/python3.10/site-packages/Publisher2Listener_py/__init__.py to __init__.cpython-310.pyc
+[0.906s] running install_data
+[0.906s] creating /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/share/ament_index
+[0.906s] creating /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/share/ament_index/resource_index
+[0.906s] creating /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/share/ament_index/resource_index/packages
+[0.907s] copying resource/Publisher2Listener_py -> /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/share/ament_index/resource_index/packages
+[0.907s] copying package.xml -> /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/share/Publisher2Listener_py
+[0.907s] running install_egg_info
+[0.918s] Copying build/Publisher2Listener_py/Publisher2Listener_py.egg-info to /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/python3.10/site-packages/Publisher2Listener_py-0.0.0-py3.10.egg-info
+[0.918s] running install_scripts
+[1.010s] writing list of installed files to '/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/install.log'
+[1.033s] Invoked command in '/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py' returned '0': PYTHONPATH=/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/install/Publisher2Listener_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/Publisher2Listener_py build --build-base /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/build install --record /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener_py/build/Publisher2Listener_py/install.log --single-version-externally-managed install_data
