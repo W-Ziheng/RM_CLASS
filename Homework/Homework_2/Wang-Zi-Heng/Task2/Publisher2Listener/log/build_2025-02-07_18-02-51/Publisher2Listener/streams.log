@@ -1,0 +1,26 @@
+[0.015s] Invoking command in '/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/build/Publisher2Listener': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/build/Publisher2Listener -- -j16 -l16
+[0.057s] [35m[1mConsolidate compiler generated dependencies of target listener_node[0m
+[0.057s] [35m[1mConsolidate compiler generated dependencies of target publisher_node[0m
+[0.074s] [100%] Built target listener_node
+[0.074s] [100%] Built target publisher_node
+[0.084s] Invoked command in '/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/build/Publisher2Listener' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/build/Publisher2Listener -- -j16 -l16
+[0.095s] Invoking command in '/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/build/Publisher2Listener': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/build/Publisher2Listener
+[0.101s] -- Install configuration: ""
+[0.102s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/lib/Publisher2Listener/publisher_node
+[0.102s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/lib/Publisher2Listener/listener_node
+[0.102s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/ament_index/resource_index/package_run_dependencies/Publisher2Listener
+[0.102s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/ament_index/resource_index/parent_prefix_path/Publisher2Listener
+[0.102s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/environment/ament_prefix_path.sh
+[0.103s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/environment/ament_prefix_path.dsv
+[0.103s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/environment/path.sh
+[0.103s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/environment/path.dsv
+[0.103s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/local_setup.bash
+[0.103s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/local_setup.sh
+[0.103s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/local_setup.zsh
+[0.103s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/local_setup.dsv
+[0.103s] -- Installing: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/package.dsv
+[0.103s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/ament_index/resource_index/packages/Publisher2Listener
+[0.103s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/cmake/Publisher2ListenerConfig.cmake
+[0.103s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/cmake/Publisher2ListenerConfig-version.cmake
+[0.103s] -- Up-to-date: /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/install/Publisher2Listener/share/Publisher2Listener/package.xml
+[0.105s] Invoked command in '/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/build/Publisher2Listener' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task2/Publisher2Listener/build/Publisher2Listener
