@@ -1,4 +1,4 @@
-# Wang-Zi-Heng Homework_2 指南
+# Wang-Zi-Heng Homework_2 指北
 
 ## 项目概述
 
