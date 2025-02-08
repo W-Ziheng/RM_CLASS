@@ -1,6 +1,0 @@
-[31mCMake Error at CMakeLists.txt:14 (install):
-  install TARGETS given target "publisher_node" which does not exist.
-
-[0m
-WARNING: Package name "Publisher2Listener" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
-gmake: *** [Makefile:308：cmake_check_build_system] 错误 1

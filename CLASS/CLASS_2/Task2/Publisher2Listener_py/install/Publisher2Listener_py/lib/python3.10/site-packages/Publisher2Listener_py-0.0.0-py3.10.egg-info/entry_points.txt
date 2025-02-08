@@ -1,3 +1,0 @@
-[console_scripts]
-listener = Publisher2Listener_py.listener:main
-publisher = Publisher2Listener_py.publisher:main
