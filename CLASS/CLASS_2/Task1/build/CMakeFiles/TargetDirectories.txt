@@ -1,3 +1,0 @@
-/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task1/build/CMakeFiles/cmake_exe.dir
-/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task1/build/CMakeFiles/edit_cache.dir
-/home/whaltze/rm/RM_CLASS/CLASS/CLASS_2/Task1/build/CMakeFiles/rebuild_cache.dir
