@@ -1,0 +1,3 @@
+/home/ggbond/CLASS_2/Task1/build/CMakeFiles/cmake_exe.dir
+/home/ggbond/CLASS_2/Task1/build/CMakeFiles/edit_cache.dir
+/home/ggbond/CLASS_2/Task1/build/CMakeFiles/rebuild_cache.dir
