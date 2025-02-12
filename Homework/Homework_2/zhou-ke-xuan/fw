@@ -1,0 +1,53 @@
+### 话题入门
+#### 1. 订阅发布模型
+
+一个节点发布数据到某个话题上，另外一个节点就可以通过订阅话题拿到数据。
+![alt text](image.png)
+除了上述这种一个节点发布，一个节点接受的形式外，ROS2话题通信其实还可以是1对n,n对1,n对n的。
+* 还有一种就是ROS2节点可以订阅本身发布的话题
+![alt text](image-1.png)
+#### 2. 消息接口
+
+为了方便发送者和接收者进行数据的交换，ROS2帮我们在数据传递时做好了消息的序列化和反序列化.而且ROS2的消息序列化与反序列化通信是可以做到跨编程语言、跨平台和跨设备之间的。  
+当我们定义好消息接口后，ROS2会根据消息接口内容生成不同语言的接口类，在不同编程语言中调用相同的类即可实现无感的消息序列化和反序列化。  
+通过对消息接口介绍，相信你肯定能猜到这样一条规则：同一个话题，所有的发布者和接收者必须使用相同消息接口。
+#### 3. ROS2话题工具
+##### 3.1 GUI工具
+3.1.1 RQT工具之rqt_graph
+
+ROS2作为一个强大的工具，在运行过程中，我们是可以通过命令来看到节点和节点之间的数据关系的。  
+
+    ros2 run demo_nodes_py listener
+    ros2 run demo_nodes_cpp talker
+    rqt_graph
+可以看到图片
+![alt text](image-2.png)
+#### 3.2 CLI工具
+**用`ros2 topic -h`查看**
+
+3.2.1  `ros2 topic list` 返回系统中当前活动的所有主题的列表
+***
+3.2.2 `ros2 topic list -t` 增加消息类型
+***
+3.2.3 `ros2 topic echo` 打印实时话题内容  
+
+    ros2 topic echo /chatter
+***
+3.2,4 `ros2 topic info` 查看主题信息  
+
+    ros2 topic info  /chatter
+![alt text](image-3.png)
+***
+3.2.5 `ros2 interface show` 查看消息类型  
+
+上面一个指令告诉大家这个消息是std_msgs/msg/String，那String里面有什么呢？  
+
+    ros2 interface show std_msgs/msg/String
+***
+3.2.6 ros2 topic pub arg 手动发布命令
+
+    ros2 topic pub /chatter std_msgs/msg/String 'data: "123"'
+### 话题之rclcpp实现
+### 1.创建节点
+本节我们将创建一个`控制节点`和一个`被控节点`。            
+![alt text](image-4.png)

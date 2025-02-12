@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/my_python_pkg/my_python_pkg.egg-info
+writing ../../build/my_python_pkg/my_python_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/my_python_pkg/my_python_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/my_python_pkg/my_python_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/my_python_pkg/my_python_pkg.egg-info/requires.txt
+writing top-level names to ../../build/my_python_pkg/my_python_pkg.egg-info/top_level.txt
+writing manifest file '../../build/my_python_pkg/my_python_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/my_python_pkg/my_python_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/my_python_pkg/my_python_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/zkx/RM/CLASS_2/ros2_ws/build/my_python_pkg/build
+creating /home/zkx/RM/CLASS_2/ros2_ws/build/my_python_pkg/build/lib
+creating /home/zkx/RM/CLASS_2/ros2_ws/build/my_python_pkg/build/lib/my_python_pkg
+copying my_python_pkg/talker.py -> /home/zkx/RM/CLASS_2/ros2_ws/build/my_python_pkg/build/lib/my_python_pkg
+copying my_python_pkg/__init__.py -> /home/zkx/RM/CLASS_2/ros2_ws/build/my_python_pkg/build/lib/my_python_pkg
+copying my_python_pkg/listener.py -> /home/zkx/RM/CLASS_2/ros2_ws/build/my_python_pkg/build/lib/my_python_pkg
+running install
+running install_lib
+creating /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/lib/python3.10/site-packages/my_python_pkg
+copying /home/zkx/RM/CLASS_2/ros2_ws/build/my_python_pkg/build/lib/my_python_pkg/talker.py -> /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/lib/python3.10/site-packages/my_python_pkg
+copying /home/zkx/RM/CLASS_2/ros2_ws/build/my_python_pkg/build/lib/my_python_pkg/__init__.py -> /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/lib/python3.10/site-packages/my_python_pkg
+copying /home/zkx/RM/CLASS_2/ros2_ws/build/my_python_pkg/build/lib/my_python_pkg/listener.py -> /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/lib/python3.10/site-packages/my_python_pkg
+byte-compiling /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/lib/python3.10/site-packages/my_python_pkg/talker.py to talker.cpython-310.pyc
+byte-compiling /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/lib/python3.10/site-packages/my_python_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/lib/python3.10/site-packages/my_python_pkg/listener.py to listener.cpython-310.pyc
+running install_data
+creating /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/share/ament_index
+creating /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/share/ament_index/resource_index
+creating /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/share/ament_index/resource_index/packages
+copying resource/my_python_pkg -> /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/share/my_python_pkg
+running install_egg_info
+Copying ../../build/my_python_pkg/my_python_pkg.egg-info to /home/zkx/RM/CLASS_2/ros2_ws/install/my_python_pkg/lib/python3.10/site-packages/my_python_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/zkx/RM/CLASS_2/ros2_ws/build/my_python_pkg/install.log'
