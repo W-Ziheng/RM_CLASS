@@ -1,0 +1,39 @@
+running egg_info
+creating ../build/Publisher2Listener/Publisher2Listener.egg-info
+writing ../build/Publisher2Listener/Publisher2Listener.egg-info/PKG-INFO
+writing dependency_links to ../build/Publisher2Listener/Publisher2Listener.egg-info/dependency_links.txt
+writing entry points to ../build/Publisher2Listener/Publisher2Listener.egg-info/entry_points.txt
+writing requirements to ../build/Publisher2Listener/Publisher2Listener.egg-info/requires.txt
+writing top-level names to ../build/Publisher2Listener/Publisher2Listener.egg-info/top_level.txt
+writing manifest file '../build/Publisher2Listener/Publisher2Listener.egg-info/SOURCES.txt'
+reading manifest file '../build/Publisher2Listener/Publisher2Listener.egg-info/SOURCES.txt'
+writing manifest file '../build/Publisher2Listener/Publisher2Listener.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build
+creating /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib
+creating /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener
+copying Publisher2Listener/listener.py -> /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener
+copying Publisher2Listener/publisher.py -> /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener
+copying Publisher2Listener/__init__.py -> /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener
+running install
+running install_lib
+creating /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener
+copying /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener/listener.py -> /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener
+copying /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener/publisher.py -> /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener
+copying /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener/__init__.py -> /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener
+byte-compiling /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener/listener.py to listener.cpython-310.pyc
+byte-compiling /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener/publisher.py to publisher.cpython-310.pyc
+byte-compiling /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/share/ament_index
+creating /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/share/ament_index/resource_index
+creating /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/share/ament_index/resource_index/packages
+copying resource/Publisher2Listener -> /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/share/ament_index/resource_index/packages
+copying package.xml -> /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/share/Publisher2Listener
+running install_egg_info
+Copying ../build/Publisher2Listener/Publisher2Listener.egg-info to /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/Publisher2Listener
+Installing publisher script to /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/Publisher2Listener
+writing list of installed files to '/home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/install.log'
