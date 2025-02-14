@@ -1,0 +1,41 @@
+[0.444s] Invoking command in '/home/ggbond/CLASS_2/Task2.2/src/Publisher2Listener': PYTHONPATH=/home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/Publisher2Listener build --build-base /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build install --record /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/install.log --single-version-externally-managed install_data
+[0.615s] running egg_info
+[0.615s] creating ../build/Publisher2Listener/Publisher2Listener.egg-info
+[0.618s] writing ../build/Publisher2Listener/Publisher2Listener.egg-info/PKG-INFO
+[0.618s] writing dependency_links to ../build/Publisher2Listener/Publisher2Listener.egg-info/dependency_links.txt
+[0.619s] writing entry points to ../build/Publisher2Listener/Publisher2Listener.egg-info/entry_points.txt
+[0.619s] writing requirements to ../build/Publisher2Listener/Publisher2Listener.egg-info/requires.txt
+[0.619s] writing top-level names to ../build/Publisher2Listener/Publisher2Listener.egg-info/top_level.txt
+[0.619s] writing manifest file '../build/Publisher2Listener/Publisher2Listener.egg-info/SOURCES.txt'
+[0.619s] reading manifest file '../build/Publisher2Listener/Publisher2Listener.egg-info/SOURCES.txt'
+[0.619s] writing manifest file '../build/Publisher2Listener/Publisher2Listener.egg-info/SOURCES.txt'
+[0.619s] running build
+[0.619s] running build_py
+[0.619s] creating /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build
+[0.619s] creating /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib
+[0.619s] creating /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener
+[0.619s] copying Publisher2Listener/listener.py -> /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener
+[0.619s] copying Publisher2Listener/publisher.py -> /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener
+[0.619s] copying Publisher2Listener/__init__.py -> /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener
+[0.619s] running install
+[0.619s] running install_lib
+[0.620s] creating /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener
+[0.620s] copying /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener/listener.py -> /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener
+[0.620s] copying /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener/publisher.py -> /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener
+[0.620s] copying /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build/lib/Publisher2Listener/__init__.py -> /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener
+[0.620s] byte-compiling /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener/listener.py to listener.cpython-310.pyc
+[0.621s] byte-compiling /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener/publisher.py to publisher.cpython-310.pyc
+[0.621s] byte-compiling /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener/__init__.py to __init__.cpython-310.pyc
+[0.621s] running install_data
+[0.622s] creating /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/share/ament_index
+[0.622s] creating /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/share/ament_index/resource_index
+[0.622s] creating /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/share/ament_index/resource_index/packages
+[0.622s] copying resource/Publisher2Listener -> /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/share/ament_index/resource_index/packages
+[0.622s] copying package.xml -> /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/share/Publisher2Listener
+[0.622s] running install_egg_info
+[0.623s] Copying ../build/Publisher2Listener/Publisher2Listener.egg-info to /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages/Publisher2Listener-0.0.0-py3.10.egg-info
+[0.624s] running install_scripts
+[0.640s] Installing listener script to /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/Publisher2Listener
+[0.640s] Installing publisher script to /home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/Publisher2Listener
+[0.641s] writing list of installed files to '/home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/install.log'
+[0.663s] Invoked command in '/home/ggbond/CLASS_2/Task2.2/src/Publisher2Listener' returned '0': PYTHONPATH=/home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ggbond/CLASS_2/Task2.2/src/install/Publisher2Listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/Publisher2Listener build --build-base /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/build install --record /home/ggbond/CLASS_2/Task2.2/src/build/Publisher2Listener/install.log --single-version-externally-managed install_data

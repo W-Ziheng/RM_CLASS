@@ -1,0 +1,11 @@
+/home/ggbond/CLASS_2/Task2/src/Publisher2Listener/build/CMakeFiles/uninstall.dir
+/home/ggbond/CLASS_2/Task2/src/Publisher2Listener/build/CMakeFiles/Publisher2Listener_uninstall.dir
+/home/ggbond/CLASS_2/Task2/src/Publisher2Listener/build/CMakeFiles/publisher_node.dir
+/home/ggbond/CLASS_2/Task2/src/Publisher2Listener/build/CMakeFiles/listener_node.dir
+/home/ggbond/CLASS_2/Task2/src/Publisher2Listener/build/CMakeFiles/test.dir
+/home/ggbond/CLASS_2/Task2/src/Publisher2Listener/build/CMakeFiles/edit_cache.dir
+/home/ggbond/CLASS_2/Task2/src/Publisher2Listener/build/CMakeFiles/rebuild_cache.dir
+/home/ggbond/CLASS_2/Task2/src/Publisher2Listener/build/CMakeFiles/list_install_components.dir
+/home/ggbond/CLASS_2/Task2/src/Publisher2Listener/build/CMakeFiles/install.dir
+/home/ggbond/CLASS_2/Task2/src/Publisher2Listener/build/CMakeFiles/install/local.dir
+/home/ggbond/CLASS_2/Task2/src/Publisher2Listener/build/CMakeFiles/install/strip.dir
