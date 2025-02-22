@@ -1,0 +1,4 @@
+source;share/Publisher2Listener/local_setup.bash
+source;share/Publisher2Listener/local_setup.dsv
+source;share/Publisher2Listener/local_setup.sh
+source;share/Publisher2Listener/local_setup.zsh

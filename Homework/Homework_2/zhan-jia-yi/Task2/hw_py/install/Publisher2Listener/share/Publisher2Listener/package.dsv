@@ -1,0 +1,6 @@
+source;share/Publisher2Listener/hook/pythonpath.ps1
+source;share/Publisher2Listener/hook/pythonpath.dsv
+source;share/Publisher2Listener/hook/pythonpath.sh
+source;share/Publisher2Listener/hook/ament_prefix_path.ps1
+source;share/Publisher2Listener/hook/ament_prefix_path.dsv
+source;share/Publisher2Listener/hook/ament_prefix_path.sh
