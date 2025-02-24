@@ -1,6 +1,0 @@
-Invoking command in '/home/zjy/桌面/Task2/hw/build/Publisher2Listener': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zjy/桌面/Task2/hw/Publisher2Listener -DCMAKE_INSTALL_PREFIX=/home/zjy/桌面/Task2/hw/install/Publisher2Listener
-Invoked command in '/home/zjy/桌面/Task2/hw/build/Publisher2Listener' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/zjy/桌面/Task2/hw/Publisher2Listener -DCMAKE_INSTALL_PREFIX=/home/zjy/桌面/Task2/hw/install/Publisher2Listener
-Invoking command in '/home/zjy/桌面/Task2/hw/build/Publisher2Listener': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zjy/桌面/Task2/hw/build/Publisher2Listener -- -j32 -l32
-Invoked command in '/home/zjy/桌面/Task2/hw/build/Publisher2Listener' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/zjy/桌面/Task2/hw/build/Publisher2Listener -- -j32 -l32
-Invoking command in '/home/zjy/桌面/Task2/hw/build/Publisher2Listener': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zjy/桌面/Task2/hw/build/Publisher2Listener
-Invoked command in '/home/zjy/桌面/Task2/hw/build/Publisher2Listener' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/zjy/桌面/Task2/hw/build/Publisher2Listener

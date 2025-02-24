@@ -1,3 +1,0 @@
-/home/zjy/桌面/CLASS_2/build/CMakeFiles/cmake_exe.dir
-/home/zjy/桌面/CLASS_2/build/CMakeFiles/edit_cache.dir
-/home/zjy/桌面/CLASS_2/build/CMakeFiles/rebuild_cache.dir
