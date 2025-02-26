@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/listener/listener.egg-info/PKG-INFO
+../../build/listener/listener.egg-info/SOURCES.txt
+../../build/listener/listener.egg-info/dependency_links.txt
+../../build/listener/listener.egg-info/entry_points.txt
+../../build/listener/listener.egg-info/requires.txt
+../../build/listener/listener.egg-info/top_level.txt
+../../build/listener/listener.egg-info/zip-safe
+listener/__init__.py
+listener/listener.py
+resource/listener
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
