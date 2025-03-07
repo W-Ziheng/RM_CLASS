@@ -1,0 +1,24 @@
+[0.368s] Invoking command in '/home/zkx/RM/CLASS_3/ros2_ws/src/image_processor': PYTHONPATH=/home/zkx/RM/CLASS_3/ros2_ws/build/image_processor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zkx/RM/CLASS_3/ros2_ws/install/image_processor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_processor build --build-base /home/zkx/RM/CLASS_3/ros2_ws/build/image_processor/build install --record /home/zkx/RM/CLASS_3/ros2_ws/build/image_processor/install.log --single-version-externally-managed install_data
+[0.522s] running egg_info
+[0.522s] writing ../../build/image_processor/image_processor.egg-info/PKG-INFO
+[0.522s] writing dependency_links to ../../build/image_processor/image_processor.egg-info/dependency_links.txt
+[0.522s] writing entry points to ../../build/image_processor/image_processor.egg-info/entry_points.txt
+[0.522s] writing requirements to ../../build/image_processor/image_processor.egg-info/requires.txt
+[0.523s] writing top-level names to ../../build/image_processor/image_processor.egg-info/top_level.txt
+[0.524s] reading manifest file '../../build/image_processor/image_processor.egg-info/SOURCES.txt'
+[0.524s] writing manifest file '../../build/image_processor/image_processor.egg-info/SOURCES.txt'
+[0.525s] running build
+[0.525s] running build_py
+[0.525s] copying image_processor/image_processor.py -> /home/zkx/RM/CLASS_3/ros2_ws/build/image_processor/build/lib/image_processor
+[0.525s] running install
+[0.525s] running install_lib
+[0.525s] copying /home/zkx/RM/CLASS_3/ros2_ws/build/image_processor/build/lib/image_processor/image_processor.py -> /home/zkx/RM/CLASS_3/ros2_ws/install/image_processor/lib/python3.10/site-packages/image_processor
+[0.526s] byte-compiling /home/zkx/RM/CLASS_3/ros2_ws/install/image_processor/lib/python3.10/site-packages/image_processor/image_processor.py to image_processor.cpython-310.pyc
+[0.526s] running install_data
+[0.526s] running install_egg_info
+[0.528s] removing '/home/zkx/RM/CLASS_3/ros2_ws/install/image_processor/lib/python3.10/site-packages/image_processor-0.0.0-py3.10.egg-info' (and everything under it)
+[0.528s] Copying ../../build/image_processor/image_processor.egg-info to /home/zkx/RM/CLASS_3/ros2_ws/install/image_processor/lib/python3.10/site-packages/image_processor-0.0.0-py3.10.egg-info
+[0.529s] running install_scripts
+[0.548s] Installing image_processor script to /home/zkx/RM/CLASS_3/ros2_ws/install/image_processor/lib/image_processor
+[0.548s] writing list of installed files to '/home/zkx/RM/CLASS_3/ros2_ws/build/image_processor/install.log'
+[0.580s] Invoked command in '/home/zkx/RM/CLASS_3/ros2_ws/src/image_processor' returned '0': PYTHONPATH=/home/zkx/RM/CLASS_3/ros2_ws/build/image_processor/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zkx/RM/CLASS_3/ros2_ws/install/image_processor/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_processor build --build-base /home/zkx/RM/CLASS_3/ros2_ws/build/image_processor/build install --record /home/zkx/RM/CLASS_3/ros2_ws/build/image_processor/install.log --single-version-externally-managed install_data
