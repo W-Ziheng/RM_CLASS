@@ -1,0 +1,39 @@
+-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rclcpp: 16.0.11 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+-- Found image_transport: 3.1.10 (/opt/ros/humble/share/image_transport/cmake)
+-- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/baymaxwish/ros2_ws/build/vision_node
+[ 50%] [32mBuilding CXX object CMakeFiles/green_triangle_detector.dir/green_triangle_detect.cpp.o[0m
+[01m[K/home/baymaxwish/ros2_ws/src/vision_node/green_triangle_detect.cpp:[m[K In member function ‘[01m[Kvoid TriangleDetector::process_frame()[m[K’:
+[01m[K/home/baymaxwish/ros2_ws/src/vision_node/green_triangle_detect.cpp:43:23:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Kimage_transport::CameraPublisher::publish(std::shared_ptr<sensor_msgs::msg::Image_<std::allocator<void> > >&)[m[K’
+   43 |     [01;31m[Kpublisher_.publish(img_msg)[m[K;
+      |     [01;31m[K~~~~~~~~~~~~~~~~~~^~~~~~~~~[m[K
+In file included from [01m[K/opt/ros/humble/include/image_transport/image_transport/image_transport.hpp:39[m[K,
+                 from [01m[K/home/baymaxwish/ros2_ws/src/vision_node/green_triangle_detect.cpp:5[m[K:
+[01m[K/opt/ros/humble/include/image_transport/image_transport/camera_publisher.hpp:103:8:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvoid image_transport::CameraPublisher::publish(const Image&, const CameraInfo&) const[m[K’
+  103 |   void [01;36m[Kpublish[m[K(
+      |        [01;36m[K^~~~~~~[m[K
+[01m[K/opt/ros/humble/include/image_transport/image_transport/camera_publisher.hpp:103:8:[m[K [01;36m[Knote: [m[K  candidate expects 2 arguments, 1 provided
+[01m[K/opt/ros/humble/include/image_transport/image_transport/camera_publisher.hpp:111:8:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvoid image_transport::CameraPublisher::publish(const ConstSharedPtr&, const ConstSharedPtr&) const[m[K’
+  111 |   void [01;36m[Kpublish[m[K(
+      |        [01;36m[K^~~~~~~[m[K
+[01m[K/opt/ros/humble/include/image_transport/image_transport/camera_publisher.hpp:111:8:[m[K [01;36m[Knote: [m[K  candidate expects 2 arguments, 1 provided
+[01m[K/opt/ros/humble/include/image_transport/image_transport/camera_publisher.hpp:123:8:[m[K [01;36m[Knote: [m[Kcandidate: ‘[01m[Kvoid image_transport::CameraPublisher::publish(sensor_msgs::msg::Image&, sensor_msgs::msg::CameraInfo&, rclcpp::Time) const[m[K’
+  123 |   void [01;36m[Kpublish[m[K(
+      |        [01;36m[K^~~~~~~[m[K
+[01m[K/opt/ros/humble/include/image_transport/image_transport/camera_publisher.hpp:123:8:[m[K [01;36m[Knote: [m[K  candidate expects 3 arguments, 1 provided
+gmake[2]: *** [CMakeFiles/green_triangle_detector.dir/build.make:76: CMakeFiles/green_triangle_detector.dir/green_triangle_detect.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/green_triangle_detector.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2
