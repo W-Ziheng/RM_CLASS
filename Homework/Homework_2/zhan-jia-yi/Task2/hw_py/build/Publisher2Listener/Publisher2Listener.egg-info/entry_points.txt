@@ -1,0 +1,4 @@
+[console_scripts]
+listener = Publisher2Listener.listener:main
+publisher = Publisher2Listener.publisher:main
+

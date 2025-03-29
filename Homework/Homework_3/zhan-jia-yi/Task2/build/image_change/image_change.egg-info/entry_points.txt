@@ -1,3 +1,0 @@
-[console_scripts]
-image_change_node = image_change.image_change_node:main
-
