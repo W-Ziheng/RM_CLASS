@@ -1,0 +1,3 @@
+setuptools
+sensor_msgs
+cv_bridge

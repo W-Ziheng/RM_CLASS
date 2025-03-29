@@ -1,0 +1,21 @@
+[0.444s] Invoking command in '/home/ylc/RM/CLASS_3/workspace/src/camera_publisher': PYTHONPATH=/home/ylc/RM/CLASS_3/workspace/build/camera_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_publisher build --build-base /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/build install --record /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/install.log --single-version-externally-managed install_data
+[0.566s] running egg_info
+[0.566s] writing ../../build/camera_publisher/camera_publisher.egg-info/PKG-INFO
+[0.566s] writing dependency_links to ../../build/camera_publisher/camera_publisher.egg-info/dependency_links.txt
+[0.566s] writing entry points to ../../build/camera_publisher/camera_publisher.egg-info/entry_points.txt
+[0.566s] writing requirements to ../../build/camera_publisher/camera_publisher.egg-info/requires.txt
+[0.566s] writing top-level names to ../../build/camera_publisher/camera_publisher.egg-info/top_level.txt
+[0.568s] reading manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.568s] writing manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.568s] running build
+[0.568s] running build_py
+[0.568s] running install
+[0.568s] running install_lib
+[0.569s] running install_data
+[0.569s] running install_egg_info
+[0.570s] removing '/home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages/camera_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+[0.570s] Copying ../../build/camera_publisher/camera_publisher.egg-info to /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages/camera_publisher-0.0.0-py3.10.egg-info
+[0.571s] running install_scripts
+[0.580s] Installing camera_publisher script to /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/camera_publisher
+[0.581s] writing list of installed files to '/home/ylc/RM/CLASS_3/workspace/build/camera_publisher/install.log'
+[0.592s] Invoked command in '/home/ylc/RM/CLASS_3/workspace/src/camera_publisher' returned '0': PYTHONPATH=/home/ylc/RM/CLASS_3/workspace/build/camera_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_publisher build --build-base /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/build install --record /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/install.log --single-version-externally-managed install_data
