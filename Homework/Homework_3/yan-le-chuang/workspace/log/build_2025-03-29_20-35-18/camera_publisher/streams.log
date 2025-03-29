@@ -1,0 +1,37 @@
+[0.454s] Invoking command in '/home/ylc/RM/CLASS_3/workspace/src/camera_publisher': PYTHONPATH=/home/ylc/RM/CLASS_3/workspace/build/camera_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_publisher build --build-base /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/build install --record /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/install.log --single-version-externally-managed install_data
+[0.577s] running egg_info
+[0.577s] creating ../../build/camera_publisher/camera_publisher.egg-info
+[0.577s] writing ../../build/camera_publisher/camera_publisher.egg-info/PKG-INFO
+[0.578s] writing dependency_links to ../../build/camera_publisher/camera_publisher.egg-info/dependency_links.txt
+[0.578s] writing entry points to ../../build/camera_publisher/camera_publisher.egg-info/entry_points.txt
+[0.578s] writing requirements to ../../build/camera_publisher/camera_publisher.egg-info/requires.txt
+[0.578s] writing top-level names to ../../build/camera_publisher/camera_publisher.egg-info/top_level.txt
+[0.578s] writing manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.579s] reading manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.579s] writing manifest file '../../build/camera_publisher/camera_publisher.egg-info/SOURCES.txt'
+[0.579s] running build
+[0.579s] running build_py
+[0.580s] creating /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/build
+[0.580s] creating /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/build/lib
+[0.580s] creating /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/build/lib/camera_publisher
+[0.580s] copying camera_publisher/camera_publisher.py -> /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/build/lib/camera_publisher
+[0.580s] copying camera_publisher/__init__.py -> /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/build/lib/camera_publisher
+[0.580s] running install
+[0.580s] running install_lib
+[0.580s] creating /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages/camera_publisher
+[0.580s] copying /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/build/lib/camera_publisher/camera_publisher.py -> /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages/camera_publisher
+[0.580s] copying /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/build/lib/camera_publisher/__init__.py -> /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages/camera_publisher
+[0.581s] byte-compiling /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages/camera_publisher/camera_publisher.py to camera_publisher.cpython-310.pyc
+[0.581s] byte-compiling /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages/camera_publisher/__init__.py to __init__.cpython-310.pyc
+[0.581s] running install_data
+[0.581s] creating /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/share/ament_index
+[0.581s] creating /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/share/ament_index/resource_index
+[0.581s] creating /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/share/ament_index/resource_index/packages
+[0.581s] copying resource/camera_publisher -> /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/share/ament_index/resource_index/packages
+[0.581s] copying package.xml -> /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/share/camera_publisher
+[0.581s] running install_egg_info
+[0.582s] Copying ../../build/camera_publisher/camera_publisher.egg-info to /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages/camera_publisher-0.0.0-py3.10.egg-info
+[0.583s] running install_scripts
+[0.592s] Installing camera_publisher_node script to /home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/camera_publisher
+[0.593s] writing list of installed files to '/home/ylc/RM/CLASS_3/workspace/build/camera_publisher/install.log'
+[0.608s] Invoked command in '/home/ylc/RM/CLASS_3/workspace/src/camera_publisher' returned '0': PYTHONPATH=/home/ylc/RM/CLASS_3/workspace/build/camera_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ylc/RM/CLASS_3/workspace/install/camera_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/camera_publisher build --build-base /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/build install --record /home/ylc/RM/CLASS_3/workspace/build/camera_publisher/install.log --single-version-externally-managed install_data
