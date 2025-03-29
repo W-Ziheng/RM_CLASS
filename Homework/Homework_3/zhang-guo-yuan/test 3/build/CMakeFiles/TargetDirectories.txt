@@ -1,0 +1,3 @@
+/home/baymaxwish/RmStudying/test 3/build/CMakeFiles/Test.dir
+/home/baymaxwish/RmStudying/test 3/build/CMakeFiles/edit_cache.dir
+/home/baymaxwish/RmStudying/test 3/build/CMakeFiles/rebuild_cache.dir

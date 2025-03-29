@@ -1,0 +1,16 @@
+/home/baymaxwish/ros2_ws/install/vision_node/lib/vision_node/green_triangle_detector
+/home/baymaxwish/ros2_ws/install/vision_node/share/ament_index/resource_index/package_run_dependencies/vision_node
+/home/baymaxwish/ros2_ws/install/vision_node/share/ament_index/resource_index/parent_prefix_path/vision_node
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/environment/ament_prefix_path.sh
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/environment/ament_prefix_path.dsv
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/environment/path.sh
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/environment/path.dsv
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/local_setup.bash
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/local_setup.sh
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/local_setup.zsh
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/local_setup.dsv
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/package.dsv
+/home/baymaxwish/ros2_ws/install/vision_node/share/ament_index/resource_index/packages/vision_node
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/cmake/vision_nodeConfig.cmake
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/cmake/vision_nodeConfig-version.cmake
+/home/baymaxwish/ros2_ws/install/vision_node/share/vision_node/package.xml

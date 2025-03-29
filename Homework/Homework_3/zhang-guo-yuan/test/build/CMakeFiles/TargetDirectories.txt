@@ -1,0 +1,4 @@
+/home/baymaxwish/homework 3 zhang-guo-yuan/test/build/CMakeFiles/Detect.dir
+/home/baymaxwish/homework 3 zhang-guo-yuan/test/build/CMakeFiles/Detect_2.dir
+/home/baymaxwish/homework 3 zhang-guo-yuan/test/build/CMakeFiles/edit_cache.dir
+/home/baymaxwish/homework 3 zhang-guo-yuan/test/build/CMakeFiles/rebuild_cache.dir

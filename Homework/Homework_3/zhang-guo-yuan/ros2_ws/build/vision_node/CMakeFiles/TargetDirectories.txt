@@ -1,0 +1,10 @@
+/home/baymaxwish/ros2_ws/build/vision_node/CMakeFiles/uninstall.dir
+/home/baymaxwish/ros2_ws/build/vision_node/CMakeFiles/vision_node_uninstall.dir
+/home/baymaxwish/ros2_ws/build/vision_node/CMakeFiles/green_triangle_detector.dir
+/home/baymaxwish/ros2_ws/build/vision_node/CMakeFiles/test.dir
+/home/baymaxwish/ros2_ws/build/vision_node/CMakeFiles/edit_cache.dir
+/home/baymaxwish/ros2_ws/build/vision_node/CMakeFiles/rebuild_cache.dir
+/home/baymaxwish/ros2_ws/build/vision_node/CMakeFiles/list_install_components.dir
+/home/baymaxwish/ros2_ws/build/vision_node/CMakeFiles/install.dir
+/home/baymaxwish/ros2_ws/build/vision_node/CMakeFiles/install/local.dir
+/home/baymaxwish/ros2_ws/build/vision_node/CMakeFiles/install/strip.dir
