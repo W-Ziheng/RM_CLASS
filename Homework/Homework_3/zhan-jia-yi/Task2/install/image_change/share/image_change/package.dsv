@@ -1,6 +1,0 @@
-source;share/image_change/hook/pythonpath.ps1
-source;share/image_change/hook/pythonpath.dsv
-source;share/image_change/hook/pythonpath.sh
-source;share/image_change/hook/ament_prefix_path.ps1
-source;share/image_change/hook/ament_prefix_path.dsv
-source;share/image_change/hook/ament_prefix_path.sh
